@@ -1,3 +1,6 @@
-const gladMelding = require("./myModule");
+const countInfo = require("./myModule");
 
-console.log(gladMelding);
+countInfo.dec();
+countInfo.dec();
+
+console.log(countInfo.getCount());
