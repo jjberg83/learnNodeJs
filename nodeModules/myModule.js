@@ -1,0 +1,1 @@
+module.exports = "Dette husker jeg fortsatt!";
